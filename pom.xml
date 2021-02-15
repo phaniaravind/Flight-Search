@@ -5,7 +5,7 @@
     <groupId>org.yourname</groupId>
     <artifactId>flightSearch</artifactId>
     <version>1.0.0-SHANSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>flightSearch</name>
 
